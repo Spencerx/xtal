@@ -66,6 +66,8 @@ Analog Optical Computer Articles, Papers https://scholar.google.com/scholar?hl=e
 IBM's Waveguides https://research.ibm.com/blog/silicon-waveguides-light-based-computers Application https://www.youtube.com/watch?v=RWhcwVxI2sQ  
 Description of Lab's Components on a test Optical Computer https://electricalfundablog.com/optical-computer/
 
+Programmable Photonics Gent(Phtonics Research Group) Webinar https://www.youtube.com/watch?v=CBhdLTTbYoM
+
 Optical Computing, Photonic Computing 
 ACM Topic On Optical or Photonic Computing https://dl.acm.org/action/doSearch?AllField=+++Optical+Computing
 HPC News on topic https://www.hpcwire.com/?s=optical+computing
@@ -125,6 +127,10 @@ Software-Defined GPU-CPU Empowered Efficient Wireless Federated Learning With Em
 
 Software Defined Hardware Architectures https://semiengineering.com/software-defined-hardware-architectures/
 
+A Use case for Software Defined Hardware(Photonics, Optoelectronics), 
+Google's Hyper Computer - Imagination required!
+https://www.hpcwire.com/2023/12/28/google-addresses-the-mysteries-of-its-hypercomputer/
+
 People expect things to happen because they can just generate content but it's only just content, there's the physical reality that every device is a electronics gadget with some software and you can only go so far with generalisations with the latest abbreviation or the ones that have been floating around for years because there's the content in the physical world that still needs a lot of work, robots are not going to magically appear with all the work done or just do it, in other words, most ideas are stuck on storage and data centers especially dead leaves called pages on books rather than just shortened acronyms in confusion or theories - so you can see code as the last resort of a finished piece of work, it has to have a software as a service(design) from a set of tools a system integrator has at their fingertips, software defined services still require a lot of code, it's always better to skip it as long as there's dedicated hardware with software neatly hidden from sight with only service visible.
 The blockchain isn't solving hard physical problems but it can given the right minds and compute power over a period of time, because it's solving other problems such as the sharing economy on mobile at scale starting somewhere(see site below).
 The sharing economy for incoming data in the next generation internet on the blockchain is new territory. This is a use case for that can be scaled to spectrum efficiency applications in existing operations for evolving networks(follow #ITUData on socials),
@@ -145,4 +151,4 @@ What is the hyperledger (from 2015)https://www.hyperledger.org/about
 What is Hyperledger Fabric? https://www.ibm.com/topics/hyperledger
 
 Blockchain https://en.wikipedia.org/wiki/Blockchain
-______________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
