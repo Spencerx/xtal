@@ -62,9 +62,13 @@ Zetta Scale IO for the software defined data center https://www.hpcwire.com/2023
 
 DIY Analogue Computer https://spectrum.ieee.org/try-this-new-analog-computer
 "Breaking the scaling limits of analog computing" https://news.mit.edu/2022/scaling-analog-optical-computing-1129
+Description of Lab's Components, a test Optical Computer hypothetically speaking(myself) https://electricalfundablog.com/optical-computer/
 Analog Optical Computer Articles, Papers https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=Optical+Analogue+Computer
-IBM's Waveguides https://research.ibm.com/blog/silicon-waveguides-light-based-computers Application https://www.youtube.com/watch?v=RWhcwVxI2sQ  
-Description of Lab's Components on a test Optical Computer https://electricalfundablog.com/optical-computer/
+IBM's Waveguides https://research.ibm.com/blog/silicon-waveguides-light-based-computers Application https://www.youtube.com/watch?v=RWhcwVxI2sQ
+Other Optical Waveguides for "All Optical Logic" https://onlinelibrary.wiley.com/doi/abs/10.1002/mop.33981
+"Programmable Parallel Optical Logic Gates on a Multimode Waveguide Engine" https://www.mdpi.com/2304-6732/9/10/736
+"Making Optical Logical Gates Using Interference" https://www.youtube.com/watch?v=pS1zAAD1nXI
+Graphene nano ribbons for Optical Logic Gates https://twitter.com/LifeboatHQ/status/1727978495379140888 
 
 Programmable Photonics Gent(Phtonics Research Group) Webinar https://www.youtube.com/watch?v=CBhdLTTbYoM
 
@@ -151,4 +155,7 @@ What is the hyperledger (from 2015)https://www.hyperledger.org/about
 What is Hyperledger Fabric? https://www.ibm.com/topics/hyperledger
 
 Blockchain https://en.wikipedia.org/wiki/Blockchain
+
+
+
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
