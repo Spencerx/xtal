@@ -11,13 +11,13 @@ Some reference text at the end of the file for the sake of reading. This is by n
 
 A drawback is the requirement of a large antenna(this is a current research topic at the IOP among many others), ofcourse there are a number of ways a electronics designer can approach this including making a integrated circuit design on for a System on Chips for complex maybe novel or trivial purposes because we also have software radio to consider, as long as there's the right design it possible to mix analogue computing and digital computing with dedicated devices for specific results in mixed signal environments. 
 
-Basically there have been various examples of tiny radio circuits the most recent that still holds the smallest example of a radio receiver is the Harvard "atomic radio" example demonstrated here from December 2016 if you are still in the in a mistletoe mode in January 2024, it's not strictly speaking a crystal variant but more of a laser powered device exciting two atoms with a spin in a certain direction that can be manipulated to demodulate radio waves magnetically with a single photon(this implies modulation is possible), for selective excitation of electronic spins in a diamond" of a certain kind, remember how CDs/DVDs spin but lasers today have complimentary materials spin that corresponds to the pattern of light from the laser or vice versa(we haven't made optical memory chips yet).
+Basically there have been various examples of tiny radio circuits the most recent that still holds the smallest example of a radio receiver is the Harvard "atomic radio" example demonstrated here from December 2016 if you are still in the in a mistletoe mode in January 2024, it's not strictly speaking a crystal variant but more of a laser powered device exciting two atoms with a spin in a certain direction that can be manipulated to demodulate radio waves magnetically with a single photon(this implies modulation is possible using a phot or photons), for selective excitation of electronic spins in a diamond" of a certain kind, remember how CDs/DVDs spin but lasers today have complimentary materials spin that corresponds to the pattern of light from the laser or vice versa(we haven't made optical memory chips yet).
 Ofcourse you need less distortion that demonstrated in the Harvard device and should expect improvements that you can pay for by way of knowledge for a specific purposes not just the active wording of applications or use cases such as a scaled up version using nano particles also possibly nano tubes(rods), scaling at a macro level.
 
 Scale through chips is noticeable for memory but you don't have a everyday application that you do some math except for the number of bits or bytes you have to accommodate because you have to wait online or otherwise for bandwidth on any channel type, of device, you are rarely thinking about CPU frequencies and resonance with other devices in a one way hardware dialogue that still needs breaking of basic fundamental limits in every aspect to achieve something new in design briefs especially for chips(there's a lot of one way traffic online). Optical memory for RAM or ROM application is still a holy grail yet to be achieved for everyday semiconductor electronics, to process all the bandwidth, content, data or information around anyone now especially at the speed of a keyboard, 3D touchscreen or voice gestures there's a need to absorb and move data, but see how a simple device can do all that at a glance but you can only tune into a single thing at a time.
 Modern devices are made to multitask and the more sources they have the smoother the better the experience they offer especially when a device does not have to perform a CPU operation to achieve anything, such as a button press or less, background listening which is usually delegated to a dedicated chip for a file or a radio stream analogue or digital for user controls. So the analogue computing's cue for repetitive or sustainably scaling operations that can be done on a analogue computer just as math processors did until they became a mainstream feature along with GPUs which were solely for architects, designers, gamers and modelers but are now the main driving force for AI models, natural language processing and stream computing. It's really hybrid computing but the only thing missing is the components for optical components. just operating at different wavelengths in the light spectrum and you can consider meta-materials already in use for structural purposes in devices. It's important to see how this can work out in a computing cluster small scale boxes, grid scale compute blocks to shipping containers.
 
-Other small radio examples include ICs(SoC hint) but none of them like block diagrams are ever complete, neither are they every day objects, so it is only natural to ask yourself why crystal radios ever look complete, because, that's academic. A unnatural reaction to a mind that has many firing synapses with it's dedicated neurons we have answers we have not consciously explored. Until you look at other circuits from different time periods and locations on the earth's grid you will gather that certain circuits are constructed and wired differently in different scenarios even if they come with a circuit diagram following different paths because they are period pieces from different age, but still a radio age with laser in the spectrum following up the spectrum chase. We use light emitting diodes everyday now for even for recreation of daylight or filament color lighting with LEDs also for moving data with LiFi apart from closed loop fiber maybe free space optics(point to point optical links without the cable) for people who were early adopters(IrDA still in some working hardware)especially nineties computers which had magneto optical disc drives such as Mini disc transport, modern discs are a main application for laser light in the spectrum remember optical discs(CD/DVD format) have pits in them. We already have limited devices expected do everything under the sun - they just have a limited scope because they are not very spectrum efficient and versatile on the receive end.
+Other small radio examples include ICs(SoC hint) but none of them like block diagrams are ever complete, neither are they every day objects, so it is only natural to ask yourself why crystal radios ever look complete, because, that's academic. A unnatural reaction to a mind that has many firing synapses with it's dedicated neurons we have answers we have not consciously explored. Until you look at other circuits from different time periods and locations on the earth's grid you will gather that certain circuits are constructed and wired differently in different scenarios even if they come with a circuit diagram following different paths because they are period pieces from different age, but still a radio age with laser in the spectrum following up the spectrum chase. We use light emitting diodes everyday now for even for recreation of daylight or filament color lighting with LEDs also for moving data with LiFi apart from closed loop fiber maybe free space optics(point to point optical links without the cable) for people who were early adopters(IrDA still in some working hardware)especially nineties computers which had magneto optical disc drives such as Mini disc transport, modern discs are a main application for laser light in the spectrum remember optical discs(CD/DVD format) have pits in them. We already have limited devices expected do everything under the sun(their screens aren't efficient solar cells for example even though they look so mono 'crystalline') - they just have a limited scope because they are not very spectrum efficient and versatile on the receive end, maybe we have to be a Kardeshev scale heavy weight greenhouse solar planet to make that happen eventually. 
 
 It is possible to say that crystal radio is EMP or nuclear proof(not the nuclear blast obviously like most things) dependent on construction like thermionic valves or nixie tubes like the dull colored light bulb shaped devices in some amps or Cathode Ray 'Tube' televisions. Of course it's much simpler than a RADAR station or a 90s TV because said crystal radio circuit does not need power unless you have to add a amp among other things.
 You can connect it to a computer and produce some interesting results apart from just expecting the DSP to do all the magic as you do with a typical IF or IQ SDR output from whatever configuration your receiver hardware supports. The main thing is that it works as long as you have a imagination for it to do so, usually many just give up on hardware that's perfectly working and needs a few modifications to do a few more tricks. Basically add a few blocks and see what happens.
@@ -29,7 +29,28 @@ Touch screens are not so articulate because it's about mimicking a handheld at t
 In theory having optical networking is enough for some, but the reality is obviously wanting because we can detect laziness(bottlenecks, latency - slow pings), slack or just something simple as least desirable performance during a computer operation which today means apps begging for some CPU time when all they to do is transfer data and act as if they are some kind of server which you have to fiddle a touch screen while the space heating keeps scaling with pure electric semiconductor/copper compute cores, optoelectronic compute cores will lower carbon footprints, energy consumption sustainably rather than just thermal problems.
 Positive results require big problems need big time and longer attention spans for real visibility.
 
-A question(s) is how to adopt the components for different electromagnetic wavelengths of the spectrum especially for a optical compute proof of concept not just the obvious quantum computing capability. The idea is to address current limits in Moore's law on Von Neumann Computer architecture, especially simultaneous(async/synchronous) throughput and hybrid applications electrical/optical hardware on current motherboards(this is only possible for data transfer, like memory it is perfectly scalable). See how you pick that apart as any engineer should in theory and practice.
+A question(s) is how to adopt the components for different electromagnetic wavelengths of the spectrum especially for a optical compute proof of concept not just the obvious quantum computing capability. The idea is to address current limits in Moore's law on Von Neumann Computer architecture, especially simultaneous(async/synchronous) throughput and hybrid applications electrical/optical hardware on current motherboards(this is only possible for data transfer, like memory it is perfectly scalable). See how you pick that apart as any engineer should in theory and practice. 
+
+Advantages of Optical Computing
+
+High & Broadband clock speeds you can expect from Optical bandwidths currently upto 20GHz is the best known limit
+Lower Power and Carbon footprint than copper or metal
+Efficient Scaling through the roof with nano tech is possible
+
+Fair research potential that will possibly allow switch case and choice based programming statements, 
+this requires a shift in program design for specific applications because with more data you really have a good deal of 
+samples and bandwidth to deal without getting bogged down by binary on/off then if the else constructs or program structures - take a whole codebase to think of and see what we mean that it's not really making it in the general purpose operations you expect from consumer, industrial or prosumer devices. Follow the topic "Optical Computing" and understand how the comopute heavy tasks that rely on GPU/GPGUs are the main target for first generation photonic computing, 
+commercially of the shelf.
+
+Useful quotes:
+2003
+"There needs to be a common mode of communication in this field" Andrew MacMillan, NASA Ames Research Center
+ 
+"The major challenge at this stage is learning how to control manipulate and probe single molecules,
+ how to direct assembly so that devices might be manufactured" 
+"If that seems very long term then, just that it took about ten years after the invention 
+of the transistor for ICs to appear and twenty years for microprocessors"
+Ryani, Oxford
 
 Topics: 
 Analogue, Digital, Computer Architecture & Engineering, Computer Models, 
@@ -37,8 +58,12 @@ DSP, FPGA/FPSC/ASIC, HPC, Hybrid, Optical and Stream computing, Analogue & Digit
 Fiber applications with meta materials for power over fiber, RF over Fiber to begin with(as in proposed 6G/7G wireless standard iterations, interesting to see what futurists can usefully speculate for 10G wireless apart from what some might expect to be obvious engineering milestones to achieve on that route, it will be useful to visualise and map it until it happens).
 
 Secondary Topics: 
-3D Printing, AI, Additive Manufacturing, Data Acquisition- DaQ, Data Recording, EDA, Engineering Continuum, Formal Verification, Generative Coding(JVM, VHDL, Assembler, C, UML), Multi Physics, Technical Documentation & Modeling, 
-Graph Algorithms, Graph Models, IC Laser, Linked Data, Linked Open Data, LLMs, Nanotechnology(Graphene), Optics, Optoelectronics, Photonics, Reconfigurable Dynamic Circuits, Semantic Web, Silicon(Crystal Semiconductors, Si/SiC - Silicon Carbide, Phase Shift Germanium), Software Defined Networking, Software Defined Radio, Spintronics, VLSI, Wireless Charging, Wireless Power(6G)
+3D Printing, AI, Additive Manufacturing, Data Acquisition- DaQ, Data Recording, Data Recorders, EDA, Engineering Continuum, Formal Verification, Generative Coding(JVM, VHDL, Assembler, C, UML), Multi Physics, Technical Documentation & Modeling with or without Generative AI/Content, 
+Graph Algorithms, Graph Models, IC Laser, Linked Data, Linked Open Data, LLMs, Nanotechnology(Graphene), Optics, Optoelectronics, Photonics, Reconfigurable Dynamic Circuits, Routing, Semantic Web, Silicon(Crystal Semiconductors, Si/SiC - Silicon Carbide, Telluride, Phase Shift Germanium, Indium Phosphate, Antimony), Software Defined Networking, Software Defined Radio, Spintronics, VLSI, Wireless Charging, Wireless Power(6G)
+
+Routing is a necessary topic to cover because no one takes the long way home or away unless they have other things to do en route by going south when they are really going north, east when they are going west. This is common when people have connect flights and are willing to split a journey into manageable bits when there is no direct route, so we know traveling well is the ideal so in devices anyone can chalk this down as "human factors" because some apps and devices today will never work without a constant internet connection this is where the redline can be marked at the very beginning, there is also the circuit board and this is where nanotech and photonics shine literally because of less energy density and more capacity for the same price as plane surface mount metals on a PCB, factor in 3D printing, it will be possible to prototype less from more or however the design is configured, there will be less moving parts in 3D PCBs. Usually design has logic as the under pinning feature for anyone elese we assume common sense practicalities, the shortest possible route but in reality you will find habits out of routine with that simple basis. For airlines these routes change but for a comouter network it's always better to get hands on and reroute to the nearest peer in a network when direct peer to peer is not possible.    
+In computing you can run tracepath and traceroute from the command line(Unix or a least Linux) to get an idea of how your network, content is routed,
+it's helpful to see how many hops a ping or byte have to take. Time savings occur when this is closer to the vrowser for instance but we know this is hardly the case in reality.
 
 Description of a miniature electrical dipole, Institute of Physics White paper(FYI, a brief reading not a citation) 2021 https://iopscience.iop.org/article/10.1088/1674-1056/ac6495/meta
 See IEEE Press, IOP member texts for complimentary texts on materials science(Graphene Applications, MEMS, Meta Materials, Nano Materials, Super Conductors/Insulators). 
@@ -57,7 +82,8 @@ An electromagnet creates a strong magnetic field around the diamond, which can b
 So obviously AMD has a patent on Photnic chips the rest is news and Intel has had a Photonics Lab for a while in Santa Clara,
 you only need to look at your existing fiber to the home or premise to see it roll out but you need your machines to crash less and depend less on the grid.
 Santa Barbara has agood optics lab but any optics and photonics(any physics/chemistry) lab should have what to create very basic prototypes.   
-We can talk about Exascale, Petascale and maybe Yottascale HPC/Super Computing but people will always underestimate how much energy just like trash, you get in recycled products. Under estimation comes easy when data streams across the board are on the table using Youtube, Google and any other service they use(AOL, Apple Cloud, MS, Yahoo et cetera). But we can expect more scaling for networks which really are really High Performance Networks. That's how iles down to users who can see it via content delivery networks and edge of the network(4G, 5G Wireless, Fiber loops).
+We can talk about Exascale, Petascale and maybe Yottascale HPC/Super Computing but people will always underestimate how much energy just like trash which is very mobile like microplastics, you get in recycled products - you will need nano scale plastic busters soon. Under estimation comes easy when data streams across the board are on the table using Youtube, Google and any other service they use(AOL, Apple Cloud, MS, Yahoo et cetera). But we can expect more scaling for networks which really are really High Performance Networks. That's how it scales down to users who can see it via content delivery networks and edge of the network(4G, 5G Wireless, Fiber loops some still use copper unfortunately).
+
 Zetta Scale IO for the software defined data center https://www.hpcwire.com/2023/03/16/optical-io-technology-needed-for-zettascale-say-top-companies/   
 
 DIY Analogue Computer https://spectrum.ieee.org/try-this-new-analog-computer
@@ -70,7 +96,7 @@ Other Optical Waveguides for "All Optical Logic" https://onlinelibrary.wiley.com
 "Making Optical Logical Gates Using Interference" https://www.youtube.com/watch?v=pS1zAAD1nXI
 Graphene nano ribbons for Optical Logic Gates https://twitter.com/LifeboatHQ/status/1727978495379140888 
 
-Programmable Photonics Gent(Phtonics Research Group) Webinar https://www.youtube.com/watch?v=CBhdLTTbYoM
+Programmable Photonics, Gent(Phtonics Research Group) Webinar https://www.youtube.com/watch?v=CBhdLTTbYoM
 
 Optical Computing, Photonic Computing 
 ACM Topic On Optical or Photonic Computing https://dl.acm.org/action/doSearch?AllField=+++Optical+Computing
@@ -90,7 +116,7 @@ LiFi IEEE Standard 2023 at 9.6Gbps https://spectrum.ieee.org/lifi-standards http
 Why talk about cable standards, like lego blocks they connect everything - it's possible to minimise cabling with wireless charging/power for newer devices, efficient devices in hostile environments containing high levels of unshielded and end user initiated consumption of spectrum resources, the number of devices per person per grid square on a map has to be considered especially from first person experience with devices in a room/block. So we can talk about Micro QSFP(µQSFP), a interface for newer Ethernet connectors that support Power over Ethernet simultaneously with metal cable and optical cable that is thermally stable, so scalable from USB-A it is a overkill in it's purest form but it can be scaled down to make it possible to support USB-Ethernet for instance with new boards/chips for smarter cable outlays. The idea is simple, replace the insulator plastic with a optical media terminator to do both.
 What is MicroQSFP http://fowiki.com/b/introduction-to-%CE%BCqsfp-transceiver/
 Visualise other USB possibilities https://en.wikipedia.org/wiki/USB
-You can compare using an existing connector in your hands. It's better to have fiber like speeds so that audiophiles, computer/electronic builders, radio amateurs or pros can scale out new products in their setups with direct onboard functions that are not limited to the setup of too many cables(PoE, PoF, RFoF, Multi session  content over fiber and so on). This is complementary GaN semiconductor power blocks you now use for some Audio/Video components, computers, gaming, mobile peripherals using the plain USB standard for power, it's promising when in mobility you can expect more than 200 watts from a 3 pin plug in vehicle or simply add the power bank to a struggling power train in the real world were there's work to do.
+You can compare using an existing connector in your hands. It's better to have fiber like speeds so that audiophiles, computer/electronic builders, radio amateurs or pros can scale out new products in their setups with direct onboard functions that are not limited to the setup of too many cables(PoE, PoF, RFoF, Multi session  content over fiber and so on). This is complementary to GaN semiconductor power banks or blocks you now use for some Audio/Video components, computers, gaming, mobile peripherals using the plain USB standard for power, it's promising when in mobility you can expect more than 200 watts from a 3 pin plug in vehicle or simply add the power bank to a struggling power train in the real world were there's work to do.
 
 "µQSFP, also known as MicroQSFP, is a high-speed IO interface system that connects server, storage, switch, video, and communication systems. It supports both copper and optical cabling and has improved thermal performance." https://www.connectortips.com/microqsfp-cage-connectors-modules-and-cable-are-being-launched-this-week/
     
@@ -121,13 +147,13 @@ DARPA SDH Topic https://www.darpa.mil/program/software-defined-hardware
 
 "a platform for learning and experimenting with system-level design issues" Understanding reconfigurable CPU Architecture with a Spectrum Z80 8 Bit Processor https://spectrum.ieee.org/dual-6502-z80-programmable-architecture GitHub Repo CAD files https://github.com/TheByteAttic/CERBERUS2100
 
-Pun out of and in context intended by me 'Hot Topics in Operating Systems (HOTOS '23: Proceedings of the 19th Workshop)' https://dl.acm.org/doi/10.1145/3593856.3595894
+Pun in and out of context intended by me 'Hot Topics in Operating Systems (HOTOS '23: Proceedings of the 19th Workshop)' https://dl.acm.org/doi/10.1145/3593856.3595894
 
 Intel Software Defined Silicon(Si) https://github.com/intel/intel-sdsi
 
-Software Defined CPU https://hackaday.com/2021/07/19/software-defined-cpu/
+'Software Defined CPU' https://hackaday.com/2021/07/19/software-defined-cpu/
 
-Software-Defined GPU-CPU Empowered Efficient Wireless Federated Learning With Embedding Communication Coding for Beyond 5G https://ieeexplore.ieee.org/document/10100949
+'Software-Defined GPU-CPU Empowered Efficient Wireless Federated Learning With Embedding Communication Coding for Beyond 5G' https://ieeexplore.ieee.org/document/10100949
 
 Software Defined Hardware Architectures https://semiengineering.com/software-defined-hardware-architectures/
 
@@ -137,14 +163,14 @@ https://www.hpcwire.com/2023/12/28/google-addresses-the-mysteries-of-its-hyperco
 
 People expect things to happen because they can just generate content but it's only just content, there's the physical reality that every device is a electronics gadget with some software and you can only go so far with generalisations with the latest abbreviation or the ones that have been floating around for years because there's the content in the physical world that still needs a lot of work, robots are not going to magically appear with all the work done or just do it, in other words, most ideas are stuck on storage and data centers especially dead leaves called pages on books rather than just shortened acronyms in confusion or theories - so you can see code as the last resort of a finished piece of work, it has to have a software as a service(design) from a set of tools a system integrator has at their fingertips, software defined services still require a lot of code, it's always better to skip it as long as there's dedicated hardware with software neatly hidden from sight with only service visible.
 The blockchain isn't solving hard physical problems but it can given the right minds and compute power over a period of time, because it's solving other problems such as the sharing economy on mobile at scale starting somewhere(see site below).
-The sharing economy for incoming data in the next generation internet on the blockchain is new territory. This is a use case for that can be scaled to spectrum efficiency applications in existing operations for evolving networks(follow #ITUData on socials),
- 
-World Mobile The Aerostat(Balloon or Airship, Blockchain and Crypto Powered Mobile Network https://worldmobile.io/
+The sharing economy for incoming data in the next generation internet on the blockchain is new territory. This is a use case that can be scaled to spectrum efficiency applications in existing operations for evolving networks(follow #ITUData on socials).
+
+World Mobile The Aerostat(Balloon or Airship, Blockchain and Crypto Powered Mobile Network) https://worldmobile.io/
 Whitepaper "World Mobile Chain: A blockchain based solution to empower a sharing economy for telecommunications infrastructure" World Mobile Token Ltd. Research Lab. https://worldmobiletoken.com/WhitePaper.pdf" 
 
-D. Burkhardt. (2018) Distributed ledger https://ieeexplore.ieee.org/abstract/document/8436299 
+D. Burkhardt 2018 Distributed ledger https://ieeexplore.ieee.org/abstract/document/8436299 
 
-N. Szabo. (1996) Smart contracts: Building blocks for digital markets. https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html
+N. Szabo 1996 Smart contracts: Building blocks for digital markets. https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html
 
 Recent "Crypto" Related Whitepapers https://whitepaper.io/
 
@@ -155,6 +181,10 @@ What is the hyperledger (from 2015)https://www.hyperledger.org/about
 What is Hyperledger Fabric? https://www.ibm.com/topics/hyperledger
 
 Blockchain https://en.wikipedia.org/wiki/Blockchain
+
+
+
+
 
 
 
