@@ -1,9 +1,10 @@
 
-                                                'Focus Pulling Draft' to get from A piece of paper to point B 
+                                        'Focus Pulling Draft' to get from A piece of paper to point B
 
         This text is based on pure motivation to focus on were the current possibilities on minimal and maximal design at scale to read the stops
         and see the traffic for what it it in current computer, electronics and optoelectronic architecture or design lie to see more out of less.
-        "Keeping it simple stupid" is difficult when you probably need a e/GPU for start menu resolution and 'Windows Icons Menus Programs'
+        "Keeping it simple stupid" is difficult when you probably need a e/GPU for start menu resolution and 
+        'Windows Icons Menus & Pointers or Pull Downs', Human Computer Interaction is searching for productivity.
         facing the limits of the most basic devices on the merit of core bandwidth, memory and processing power with
         metal semiconductors working on pure electrical signals rather than a mixture of optotelectronics across analog or digital domains.   
         Mind the gap, we have bugs carried over from the millennia before us and it is wise to understand these solutions need to be rolled out in
@@ -156,6 +157,19 @@ Analogue, Digital, Computer Architecture & Engineering, Computer Models,
 DSP, FPGA/FPSC/ASIC, HPC, Hybrid, Optical and Stream computing, Analogue & Digital Radio, Design,
 Fiber applications with meta materials for power over fiber, RF over Fiber to begin with(as in proposed 6G/7G wireless standard iterations, interesting to see what futurists can usefully speculate for 10G wireless apart from what some might expect to be obvious engineering milestones to achieve on that route, it will be useful to visualise and map it until it happens).
 
+3D IC & Circuits? https://news.ycombinator.com/item?id=24119102
+
+Random Concept 3D https://www.youtube.com/watch?v=MnCk6iDUUkQ
+The 3D PCB. Looking at the idea from factory's point of view is highly recommended https://www.ic3dprinters.com/
+
+"3D printing integrated circuits and other semiconductor devices directly into a PCB can allow for the fabrication of highly specialized devices with unique capabilities and form factors" https://www.nano-di.com/resources/blog/2019-3d-printing-integrated-circuits-whats-possible-now-and-in-the-future
+3D Circuit Printer https://www.youtube.com/watch?v=anirwRP8eJU view it here https://www.aniwaa.com/product/3d-printers/voxel8-3d-electronics-printer/
+
+Home Made ICs https://www.youtube.com/watch?v=XrEC2LGGXn0
+
+I only see 3D ICs as a route for fast prototyping and results for chip designer who like to verify results before they order a production line run especially if they use nano technology.
+The justification for 3D PCB among those you already know from maker fairs https://blog.techdesign.com/3d-printed-ic-reshape-semiconductor-industry/
+
 Secondary Topics: 
 3D Printing, 3D P PCB(Printed PCB), AI, Additive Manufacturing, Blockchain, Data Acquisition- DaQ, Data Recording, Data Recorders, DevOps(for multimedia, design), EDA, Engineering Continuum, Formal Verification, Generative Coding(JVM, VHDL, Assembler, C, UML), Multi Physics, Technical Documentation & Modelling with or without Generative AI/Content, 
 Graph Algorithms, Graph Models, IC Laser, LiDAR, Linked Data, Linked Open Data, LLMs, Nanotechnology(Graphene), Open Hardware, Optics, Optoelectronics, 
@@ -300,7 +314,7 @@ timekeeper in keeping in step with the reality of movement automatically, at lea
 So minds need some kind of rest some, motivation, stimulus and sustenance this is not a lot of energy when we simply translate circumstance or 
 happenstance into some kind of formulae, the mind of the crowd is fickle but the thinking mind needs sustenance by way of material knowledge. 
 It's easy to talk about zombie economics but it takes real zombies to make that happen or just plain large scale IP theft by enforcing of lack productivity
-as in a challenged environment that promotes overthinking.
+as in a challenged environment that promotes overthinking and inaction(brain freeze/creative blocks apart from crashing/hanging machines).
 
 We understand low level applications and think at the human to human, higher level but we have to communicate and live above a mere performance were 
 time is limited, think this way with the same routine and you are in deep sleep performing the same routine. Now some people keep tonnes of books, this 
@@ -317,7 +331,7 @@ In getting things done certain things have been overlooked in the race of trends
 on things to get by without worrying about the state of the planet because this is the immediate reality for island dwellers who are facing
 rising tides for instance, whatever it can be called is missing the obvious point because one has to be upfront to see the damage and be willing
 to move. Nature is considered by some in science fiction to be AI so this is a niche not a reactive lily gilding debating society topic, a first person
- reality to be vface by those willing to change it, maybe survive it at the very least because the narrative is so blatantly obvious?        
+ reality to be face by those willing to change it, maybe survive it at the very least because the narrative is so blatantly obvious?        
 
 
 Software Defined Hardware - SDH (CPU/GPU)
@@ -387,7 +401,4 @@ What is the hyperledger (from 2015)https://www.hyperledger.org/about
 What is Hyperledger Fabric? https://www.ibm.com/topics/hyperledger
 
 Blockchain https://en.wikipedia.org/wiki/Blockchain
-
-
-
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
