@@ -1,5 +1,4 @@
-
-                               'Focus Pulling Draft' to get from A piece of paper to point B
+  'Focus Pulling Draft' to get from A piece of paper to point B
                                                 E&OE, WikiPaper
 
         This text is based on pure motivation to focus on were the current possibilities on minimal and maximal design at scale to read the stops
@@ -46,8 +45,8 @@
         their chosen devices.
         It also necessary to note that opportunities can not be limited to the vocabulary of problem spaces, seeing opportunities as problems,
         there is the need to see them through the eyes of mechanics not the grease monkey type but the geophysics and physics type as in the 19th
-        century without reference to then or undocumented limits of  "mechanism" however to large scale mega machines and small scale nano machines
-        at the limit of current design, engineering science that should aid the actor/viewer inside or outside systems
+        century without reference to then or undocumented limits of  "mechanism" however to large scale mega machines and small scale 
+        nano machines at the limit of current design, engineering science that should aid the actor/viewer inside or outside systems
         to see possibility of solving problems such as micro plastics with visible solutions online leaving something for imagination to solve
         apart from red tape which is another animal altogether in a different maybe backward setting were there is no progress, that's a
         a blank sheet or a dark sky canvas, lets just say a blanks screen to see how people can interact with content
@@ -133,7 +132,6 @@ Fair research potential that will possibly allow switch case and choice based pr
 commercially of the shelf.
 
 Useful quotes:
-2003
 
 "All abstractions are failures" Anonymous
 
@@ -156,6 +154,26 @@ Anyways
 "The Rise of The New Physics" d'Abro
 "The Strange Story of The Quantum" Hoffman
 "Weapons of Math Destruction" O'Neil
+If "Mathematics For The Million" by Hogben was not enough you can search for available titles in comic book or graphic novel format such as
+"Prime Suspects 'The Anatomy Of Integers And Permutations'" by the Andrew and Jenifer Granville as illustrated by Lewis. Ofcourse if you are just a person who looking for
+more interactive math then generative tools should be more interesting than just looking at Maple, MathCAD, Mathematica, MATLAB, 
+Sage, with applications with basic cognitive ability such as IBM Watson or Wolfram Alpha since you also have little tools such as Coq or lean among many others that are in the news trends, you have
+ to ask how much you can achieve with the popular tools by practice in your daily routine without breaking the bank(PNP) and overthink.
+This is the opportunity so it's pretty lazy to think of cost at this point and time unless you have hard problems you want to solve while you still have a ageing SGI or Sun Workstations running the latest 
+Java but no complimentary desktop, deskside machine assistance for that mechanical advantage just to make fun of the idea, there's plenty of cloud more mobile scrawniness than compute power on 
+premise unless you deploy your own cloud(pun not intended because php sucks like plumbing, its always necessary  to have a new machines undiluted and evolving to define the trends not 
+the other way(s) around because to a person with hardware all
+these problems look funny when you won't accept dilution from mobile domains because at least the cloud is virtually accessible anywhere to almostanything with the caveat of 'anything')! 
+
+As a kid living with or near in  the neighbourhood mathematicians they liked the fun(the only amount they would get outside they office) that I poked at them because most kids
+can now relate the abstract to the reality of using computers, at least gaming computers or consoles.
+Relating to the rationale of numbers is a different thing when you use computers everyday especially if they are powerful computers you inherently 
+discover the limits of that state machine in the aspect of content, mathematics is a tool so in sense so is currency but what you can do with it will differ from place to place in the same way 
+physics is different until you become accustomed to a set of facts(earth bound constants) which we take for granted here on earth, Terra firma, 
+Without the faster than light travel you  can always revel in the idea of such a craft as a time travelling ship but oral history is littered with such experiences that can be taken 
+out of context once they become a faded memory left to mere chance or probability as stressed by Hogben on latter alone. The rest is science fiction just as science is purely
+fictional to people who cannot wield it because off priorities until they do something with it which is usually a novelty experience in isolation unlike practical knowledge from
+trial and error maybe just pure experience. There is much that doesn't last in the organic material world along with stories long lost to posterity.  
 
 "The major challenge at this stage is learning how to control manipulate and probe single molecules,
  how to direct assembly so that devices might be manufactured"
@@ -219,7 +237,7 @@ understanding why not is a good question for "innovators dilemma".
 Topics:
 Analogue, Digital, Computer Architecture & Engineering, Computer Models, Circular Economy,
 DSP, FPGA/FPSC/ASIC, HPC, Hybrid, Optical and Stream computing, Analogue & Digital Radio, Design,
-Fiber applications with meta materials for power over fiber, RF over Fiber to begin with(as in proposed 6G/7G wireless standard iterations, interesting to see what futurists can usefully speculate for 10G wireless apart from what some might expect to be obvious engineering milestones to achieve on that route, it will be useful to visualise and map it until it happens).
+Fiber applications with meta materials for power over fiber, RF over Fiber to begin with(as in proposed 6G/7G wireless standard iterations, interesting to see what futurists can usefully speculate for 10G wireless apart from what some might expect to be obvious engineering milestones to achieve on that route, it will be useful to visualise and map it until it happens, the easiest example that comes to mind is satellite solar as demonstrated in the last year, 2023 by CALTECH as in California Institute of Technology's Space Solar Power Project demonstrating the principal rather than the practical application were you can try it your self by terrestrial means while ting of it as a optimisation problem where you can compare with the potential for wind on any viable tower or tall building via GlobalWindMap.com), the idea is getting all sources of power and selling excess to the grid while balancing power based on base station demand vs network capacity saving generator fuel along with making use of a high structure or sharing access  with other services onsite including HVAC* and spectrum efficiency while considering operating parameters as set by standards, guidelines, operating procedures and rules operation, the blockchain ledger has a lot to offer since most of it has yet to come to fruition with people still coming to terms with its potential in lock down the primary motivator may still be there but without the other obvious motivation of being in lockdown without avenue to work out hard problems, this is the focus for many other efforts where people or organisations can now work on decentralisation of networking resources not just the pure abstraction of it as in Software Defined Architecture on the Blockchain, these can be mutually exclusive, subject to change ofcourse or just further developments in software defined hardware that will articulate this in years and months to come.
 
 Ammonia as a net zero fuel has circular economy potential https://amogy.co/technology/ https://www.weforum.org/organizations/amogy/
 
@@ -450,7 +468,7 @@ timekeeper in keeping in step with the reality of movement automatically, at lea
 So minds need some kind of rest some, motivation, stimulus and sustenance this is not a lot of energy when we simply translate circumstance or
 happenstance into some kind of formulae, the mind of the crowd is fickle but the thinking mind needs sustenance by way of material knowledge.
 It's easy to talk about zombie economics but it takes real zombies to make that happen or just plain large scale IP theft by enforcing of lack productivity
-as in a challenged environment that promotes overthinking and inaction(brain freeze/creative blocks apart from crashing/hanging machines not Google Fhangouts).
+as in a challenged environment that promotes overthinking and inaction(brain freeze/creative blocks apart from crashing/hanging machines not Google hangouts).
 
 We understand low level applications and think at the human to human(B2B?), higher level but we have to communicate and live above a mere performance were
 time is limited, think this way with the same routine and you are in deep sleep performing the same routine. Now some people keep tonnes of books, this
@@ -516,6 +534,9 @@ We have many computer aided manufacturing tools that are now in the hands of ind
 impossible to see a virtual show case and see a finished product upon delivery from a fully digital supply chain guiding to, the receiver can be the
 customer to give them a better journey into the world with more understanding for their particular task at hand.
 
+On landfills and waste, The Blockchain & Crypto fitting into a pocket as described in this documentary, it is important to note greater than 100% mobile penetration in some places such as the Philippines so you can again compare and contrast via #ITUData and statistical data from census or other sources to get context on where value doesn't have to be abstract thing making one stare at any type of screen all day along with having to listen via that screen actively instead of being able to multitask while radio or text to speech is at work for the cent or minute in a day, see part 3, usually in many places more places it doesn't immediately translate into economic benefits after all this is not a free service first and foremost, we see normalisation of mobile device first and everything else last or relegation of existing device roles but that's just a shift in focus that myopic because it's so touch screen dependent on one tiny screen. 
+'Eliminating middlemen in the plastic industry with technology that allows waste-pickers to triple incomes. Turned into digital tokens in an e-wallet, plastic has become their money. This documentary was the 2019 Television & Corporate Media intermedia-globe Gold winner in the category Documentaries | Finance in the WorldMediaFestival contest. Part 1 - https://youtu.be/zBQWhOSDykk Part 2 - https://youtu.be/frTz5hL3z2U Part 3 - https://youtu.be/-Jn41vwZd94 Part 4 - https://youtu.be/0G4xMWmbGtw Part 5 - https://youtu.be/nA4_HGE29pI '
+
 D. Burkhardt 2018 Distributed ledger https://ieeexplore.ieee.org/abstract/document/8436299
 
 N. Szabo 1996 Smart contracts: Building blocks for digital markets. https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html
@@ -530,3 +551,10 @@ What is Hyperledger Fabric? https://www.ibm.com/topics/hyperledger
 
 Blockchain https://en.wikipedia.org/wiki/Blockchain
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+You can drive a endless schedule of freight trains coming from a flotilla of container ships and a endless flow of all the air cargo carriers you can find through energy efficiency - it's always better to make more from less to be able to fit in the little bits.
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
