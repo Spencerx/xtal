@@ -1,5 +1,4 @@
-
-                               				'Focus Pulling Draft' to get from A piece of paper to point B
+                             				'Focus Pulling Draft' to get from A piece of paper to point B
                                                 				E&OE, WikiPaper
 
         This text is based on pure motivation to focus on were the current possibilities on minimal and maximal design at scale to read the stops
